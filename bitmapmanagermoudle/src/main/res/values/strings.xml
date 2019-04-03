@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitMapManagerMoudle</string>
+    <item type="id" name="imageView_uri">
+    </item>
+    <item type="id" name="tag_second">
+    </item>
+</resources>
